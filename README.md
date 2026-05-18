@@ -9,13 +9,13 @@
 ![](https://streak-stats.demolab.com/?user=anushakottapalli&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anushakottapalli&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 🚀 Contributions & Projects:
-✅ Developed web applications using HTML, CSS, and JavaScript
-✅ Applied data cleaning & transformation using Pandas and Numpy
-✅ Deployed cloud-based solutions with AWS essentials
+✅ Developed web applications using HTML, CSS, and JavaScript<br/>
+✅ Applied data cleaning & transformation using Pandas and Numpy<br/>
+✅ Deployed cloud-based solutions with AWS essentials<br/>
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anusha-kottapalli-304b83332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushakottapalli2005@gmail.com) 
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
